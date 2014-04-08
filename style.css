@@ -1,0 +1,8 @@
+.container {
+	max-width: 1000px;
+	/*border: solid red;*/
+}
+input {
+	width: 15%;
+	height: 10%;
+}
